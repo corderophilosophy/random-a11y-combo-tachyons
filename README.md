@@ -1,7 +1,7 @@
 # random-a11y-combo-tachyons
 
 ## Why?
-I had a list of `nav` items that I wanted to be randomly generate colors for and I was using <a href="https://tachyons.io">Tachyons</a> in the project. So...
+I had a list of `nav` items that I wanted to randomly generate colors for and I was using <a href="https://tachyons.io">Tachyons</a> in the project. So...
 
 ```javascript
 // import (or whatever) `randTach` (or whatever) from 'random-a11y-combo-tachyons'
@@ -15,7 +15,7 @@ randTach('#111');
 // returns: ['near-black', 'washed-blue']
 
 randTach('#111');
-// returns: ['near-black', 'white-50']
+// returns: ['near-black', 'washed-green']
 
 randTach('#111');
 // returns: ['near-black', 'light-yellow']
