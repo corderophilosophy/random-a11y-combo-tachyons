@@ -1,12 +1,12 @@
-# random-tachyons-a11y-combo
+# random-a11y-combo-tachyons
 
 ## Why?
 I had a list of `nav` items that I wanted to be randomly generate colors for and I was using <a href="https://tachyons.io">Tachyons</a> in the project. So...
 
 ```javascript
-// import (or whatever) `randTach` (or whatever) from 'random-tachyons-a11y-combo'
+// import (or whatever) `randTach` (or whatever) from 'random-a11y-combo-tachyons'
 
-const randTach = require('random-tachyons-a11y-combo');
+const randTach = require('random-a11y-combo-tachyons');
 
 // provide a color code:
 // NB: color code provided MUST be in `./src/colors.js`
