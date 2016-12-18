@@ -1,6 +1,6 @@
 {
   "name": "random-a11y-combo-tachyons",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "WIP: give a tachyons color, get a random, tachyons, accessible contrast color in return",
   "main": "index.js",
   "scripts": {
