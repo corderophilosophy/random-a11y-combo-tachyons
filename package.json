@@ -1,7 +1,7 @@
 {
   "name": "random-a11y-combo-tachyons",
   "version": "0.1.0",
-  "description": "",
+  "description": "WIP: give a tachyons color, get a random, tachyons, accessible contrast color in return",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
