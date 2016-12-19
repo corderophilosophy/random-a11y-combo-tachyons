@@ -6,7 +6,7 @@ const helpers = {
   },
 
   getNameFromValue: function(object, value) {
-    var name = Object.keys(object).filter((el) => {
+    var name = Object.keys(object).filter(function(el) {
       return object[el] == value;
     })
     return name.toString();
