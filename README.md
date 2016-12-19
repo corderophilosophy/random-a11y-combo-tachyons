@@ -4,7 +4,7 @@
 I had a list of `nav` items that I wanted to randomly generate colors for and I was using <a href="https://tachyons.io">Tachyons</a> in the project. So...
 
 ```javascript
-// import (or whatever) `randTach` (or whatever) from 'random-a11y-combo-tachyons'
+// import (or whatever) `randTach` from 'random-a11y-combo-tachyons'
 
 const randTach = require('random-a11y-combo-tachyons');
 
