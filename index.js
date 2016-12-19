@@ -2,7 +2,7 @@
 const getContrast = require('get-contrast');
 const Colors = require('./src/colors');
 const randTachCode = require('./src/randomTachyonsColorCode');
-const {getNameFromValue} = require('./src/helpers');
+const getNameFromValue = require('./src/helpers').getNameFromValue;
 module.exports = function randTach(colorOne) {
   colorOne = colorOne || randTachCode();
   var colorTwo = randTachCode();
